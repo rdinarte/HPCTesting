@@ -15,7 +15,7 @@ private class myClass
 
 	private void doSomething3()
 	{
-		foo();
+		goo(55);//Because conflicts are awful
 	}
 
 	private void doSomething4()
