@@ -2,14 +2,14 @@ Test for updating files
 
 private class myClass
 {
-	private void doSomething()
+	private void doSomething(string param1)
 	{
-		foo();
+		foo(param1);
 	}
 
-	private void doSomething2()
+	private void doAnotherThing()
 	{
-		foo();
+		foo(2, "s");
 	}
 
 	private void doSomething3()
