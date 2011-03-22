@@ -1,1 +1,25 @@
 Test for updating files
+
+private class myClass
+{
+	private void doSomething()
+	{
+		foo();
+	}
+
+	private void doSomething2()
+	{
+		foo();
+	}
+
+	private void doSomething3()
+	{
+		foo();
+	}
+
+	private void doSomething4()
+	{
+		foo();
+	}
+
+}
