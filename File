@@ -15,7 +15,7 @@ private class myClass
 
 	private void doSomething3()
 	{
-		foo();
+		foo(3);
 	}
 
 	private void doSomething4()
