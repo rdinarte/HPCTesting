@@ -5,6 +5,7 @@ private class myClass
 	private void doSomething(string param1)
 	{
 		foo(param1);
+		goo(param1);//First commit
 	}
 
 	private void doAnotherThing()
